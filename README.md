@@ -13,7 +13,7 @@ In a constant motion of doing something productive!
 - 🔭 I’m currently working on a MERN
 - 🌱 I’m currently learning everything 🤣
 - 💻 I've decent experience in Data science, security and Cloud Computing
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate on real Deep learning projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook, watch anime and play hardcore action games
 <br />

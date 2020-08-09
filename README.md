@@ -5,11 +5,11 @@
   </tr>
 </table>
 
-### Hi there, I'm Siddhant - aka [lmntrixsid] 👋
+## Hi there, I'm Siddhant - aka [lmntrixsid] 👋
 Not a nerd, not a weirdo, just a responsible man!
 In a constant motion of doing something productive! 
 
-## I'm a Student, Developer, Technocrat and a community guy!
+### I'm a Student, Developer, Technocrat and a community guy!
 - 🔭 I’m currently working on a MERN
 - 🌱 I’m currently learning everything 🤣
 - 💻 I've decent experience in Data science, security and Cloud Computing
@@ -19,7 +19,6 @@ In a constant motion of doing something productive!
 <br />
 
 ### Languages and Tools:
-
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -35,18 +34,11 @@ In a constant motion of doing something productive!
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+## You can connect me on <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
 
-<!-- BLOG-POST-LIST:END -->
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/lmntrixsidd">lmntrixsid</a> 
 
----
-<br />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/siddhant-singh-6525a2174">Siddhant Singh</a> 
 
-
-<img align="left" alt="lmntrixisid Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lmntrixsid&show_icons=true&hide_border=true" /> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmntrixsid)
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://www.instagram.com/lmntrix.sid/">LMNtrix.sid</a> 

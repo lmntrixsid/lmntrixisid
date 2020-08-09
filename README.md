@@ -16,7 +16,6 @@ In a constant motion of doing something productive!
 - 👯 I’m looking to collaborate on real Deep learning projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook, watch anime and play hardcore action games
-<br />
 
 ### Languages and Tools:
 
@@ -33,6 +32,12 @@ In a constant motion of doing something productive!
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://download.logo.wine/logo/Google_Cloud_Platform/Google_Cloud_Platform-Logo.wine.png" />
+<br/>
+
+ ![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=lmntrixsid&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmntrixsid&hide=css&theme=radical)
+
+
 
 
 ## You can connect me on <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
@@ -42,3 +47,12 @@ In a constant motion of doing something productive!
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/siddhant-singh-6525a2174">Siddhant Singh</a> 
 
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://www.instagram.com/lmntrix.sid/">LMNtrix.sid</a> 
+
+
+
+
+
+
+
+
+

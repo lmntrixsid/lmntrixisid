@@ -6,15 +6,14 @@
 </table>
 
 ## Hi there, I'm Siddhant - aka [lmntrixsid] 👋
-Not a nerd, not a weirdo, just a responsible man!
 In a constant motion of doing something productive! 
 
 ### I'm a Student, Developer, Technocrat and a community guy!
-- 🔭 I’m currently working on a MERN
+- 🔭 I’m currently working on a Data Engineering and MERN Stack
 - 🌱 I’m currently learning everything 🤣
-- 💻 I've decent experience in Data science, security and Cloud Computing
-- 👯 I’m looking to collaborate on real Deep learning projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 💻 I've decent experience in Data Engineering, Software Developement and Cloud developement
+- 👯 I’m looking to collaborate on real world Data Engineering Projects and Software Developement
+- 🥅 2024 Goals: Land a job , Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook, watch anime and play hardcore action games
 
 ### Languages and Tools:
